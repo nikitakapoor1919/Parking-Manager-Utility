@@ -4,19 +4,19 @@ The vehicles are categorised into 3 types : 2 wheeler(scooters, bicycles),4 whee
 Thus this utility enables drivers to reserve a parking space in the parking lot.
 
 # SubModules
-### 1.Arrival of a vehicle
+#### 1.Arrival of a vehicle
 In this module the vehicle details are saved and a parking space is allotted to the vehicle.
 
-### 2.Total no of vehicles arrived
+#### 2.Total no of vehicles arrived
 In this module the details of  all the vehicles parked in the parking lot can be viewed 
 
-### 3.Total parking charges of the vehicle
+#### 3.Total parking charges of the vehicle
 In this module the bill of the vehicles are generated according to its number of hours of stay. The bill can be viewed by typing the vehicle number. 
 
-### 4.Departure of the vehicle
+#### 4.Departure of the vehicle
 In this module the details of the vehicle is deleted from the file as soon as the car departs from the parking lot
 
-### 5.View price chart
+#### 5.View price chart
 This module displays the parking price per hour for the vehicles for different categories. 
 
 # Conclusion
